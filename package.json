@@ -1,0 +1,21 @@
+{
+  "name": "code-nodejs",
+  "version": "1.0.0",
+  "description": "this is core webappp ecommercer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": "NONE",
+  "keywords": [
+    "core",
+    "webapp",
+    "ecommercer"
+  ],
+  "author": "AT Group",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.1.2"
+  }
+}
